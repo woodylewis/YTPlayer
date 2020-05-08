@@ -1,2 +1,0 @@
-# YTPlayer
-Created with CodeSandbox
